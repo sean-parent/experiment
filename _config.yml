@@ -2,8 +2,10 @@
 title: STLab
 email: sean.parent@stlab.cc
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "/experiment"
+#url: "http://sean-parent.github.io"
+#production_url : http://sean-parent.github.io
+
 
 # Build settings
 markdown: kramdown
